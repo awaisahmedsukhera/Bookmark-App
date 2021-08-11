@@ -12,3 +12,7 @@ Just download and open index.html. It is all client side
 ### Functions
 
 Enter site name, url and save bookmarks by submit button. Once bookmarked, you can visit, edit and delete the bookmarks easily by the buttons provided.
+
+### App link
+
+[https://bookmarkappbyawais.netlify.app/]
