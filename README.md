@@ -1,6 +1,6 @@
 # Bookmarker LocalStorage App. How to effectively select DOM objects using querySelector and manipulating them by using addEventListener.
 
-Simple application for bookmarking webistes. This application is designed to learn the basic functions asssociated with DOM manipulation, how to effectively use them to make a simple app and how to add events using event listener function. Along with this, it also uses localstorage functions to store and retrieve values from local storage when needed and the bookmarks are also stored in local storage.
+Simple application for bookmarking websites. This application is designed to learn the basic functions asssociated with DOM manipulation, how to effectively use them to make a simple app and how to add events using event listener function. Along with this, it also uses localstorage functions to store and retrieve values from local storage when needed and the bookmarks are also stored in local storage.
 
 ### Usage
 
